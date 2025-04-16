@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Katherine Barreto # your name (or website title) here
 logo: "/images/Katherine_Barreto_Picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/katherine-barreto-75a5901ba/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
