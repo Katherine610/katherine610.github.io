@@ -1,11 +1,14 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### Web Scraping Weather Forecast for a Fortnight 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this project, I scraped data from the BBC Weather website to obtain the weather forecast over 14 days for any city you choose.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View Code on Colab](https://colab.research.google.com/drive/12rSWL55glfXX6TVcHFRpgcmvt1nDofkd?usp=sharing)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
